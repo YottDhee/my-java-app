@@ -144,5 +144,4 @@ git remote -v
 git remote add origin development
 git push origin development
 history
-history | cut -c 8-
 
